@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="contact_name">contact name</string>
+    <string name="edit_contact_fragment">EditContactFragment</string>
+    <string name="contact_fragment">contactFragment</string>
+    <string-array name="phone_options">
+        <item>Home</item>
+        <item>Personal</item>
+        <item>Work</item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_contact_fragment">add contact</string>
+</resources>
